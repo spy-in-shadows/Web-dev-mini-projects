@@ -35,9 +35,7 @@
 | [Countdown-Timer](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/Countdown_Timer)                         | Simple Web App which helps to make some important occasions.                                                                                                                                                                        |
 | [Corona-Tracker](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/Corona-tracker)                          | Beginner friendly project which uses basic APIs and provides real-time data of vaccines and corona cases.                                                                                                                            |
 
-| [Cosmic-Login-Page](https://github.com/spy-in-shadows/Web-dev-mini-projects/tree/add-cosmic-login-page/Cosmic-Login-Page)      | A modern, responsive login page with a glowing background and floating label 
-inputs. 
-                                    |
+| [Cosmic-Login-Page](https://github.com/spy-in-shadows/Web-dev-mini-projects/tree/add-cosmic-login-page/Cosmic-Login-Page)                          | A modern, responsive login page with a glowing background and floating label inputs.                                                                                                                            |
 
 | [Custom-Range-Slider](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/Custom-Range-Slider)                 | Simple Custom Range Slider written in HTML, CSS, and JavaScript.                                                                                                                                                                     |
 | [Digital Clock](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/DIGITAL-JAVASCRIPT-CLOCK)                  | Simple Clock App written in HTML, CSS, and JavaScript.                                                                                                                                                                              |
