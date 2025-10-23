@@ -14,8 +14,8 @@ A modern, responsive login page with a glowing cosmic gradient background and fl
 - CSS3 (Flexbox, gradients, transitions)
 
 ## 📸 Preview
-![screenshot](https://github.com/spy-in-shadows/Web-dev-mini-projects/screenshot.png)
-![screenshot](https://github.com/spy-in-shadows/Web-dev-mini-projects/screenshot1.png)
+![screenshot](https://github.com/spy-in-shadows/Web-dev-mini-projects/blob/add-cosmic-login-page/Cosmic-Login-Page/screenshot.png?raw=true)
+![screenshot](https://github.com/spy-in-shadows/Web-dev-mini-projects/blob/add-cosmic-login-page/Cosmic-Login-Page/screenshot1.png?raw=true)
 
 ---
 
